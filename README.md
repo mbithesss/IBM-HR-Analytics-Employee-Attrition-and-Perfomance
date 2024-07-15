@@ -30,4 +30,4 @@ This indicates that the model performed well in predicting employee attrition.
 
 With further refinement, this predictive tool could effectively support HR strategies aimed at understanding and mitigating attrition.
 
-See project [Here](Prediction of Employee Attrition, HR Analytics.ipynb)
+See project [Here](Prediction of Employee Attrition, HR Analytics.ipynb](https://github.com/mbithesss/IBM-HR-Analytics-Employee-Attrition-and-Perfomance/blob/main/Prediction%20of%20Employee%20Attrition%2C%20HR%20Analytics.ipynb)
