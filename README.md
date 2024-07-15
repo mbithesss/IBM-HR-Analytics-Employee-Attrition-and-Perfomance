@@ -29,3 +29,5 @@ The random forest classifier achieved a testing accuracy of approximately 86.4%.
 This indicates that the model performed well in predicting employee attrition. 
 
 With further refinement, this predictive tool could effectively support HR strategies aimed at understanding and mitigating attrition.
+
+See project [Here](Prediction of Employee Attrition, HR Analytics.ipynb)
