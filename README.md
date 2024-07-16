@@ -16,13 +16,15 @@ Through exploratory data analysis (EDA), I aim to gain insights into the factors
 
 Overall, 16% of employees left the company. 
 
+Most of the individuals who left their jobs were from the Human Resources department.
+
 Employees aged between 26 and 35, especially those around 29 and 31 years old, had the highest attrition rates.
 
 This age group could benefit from targeted efforts to improve retention.
 
 While job satisfaction alone didn't strongly predict attrition, employees who rated their work-life balance as moderate (3 out of 4) were more likely to leave. 
 
-This highlights the need to enhance work-life balance initiatives, particularly for those with moderate ratings, to boost retention and employee happiness.
+This highlights the need to enhance work-life balance initiatives,       particularly for those with         moderate ratings, to boost retention and employee happiness.
 
 The random forest classifier achieved a testing accuracy of approximately 86.4%.
 
